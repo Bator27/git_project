@@ -10,22 +10,13 @@ $a = 10;
 $b = 15;
 $c  = 12;
 
-<<<<<<< HEAD
-print $a + $b + $b;
-=======
-print $a + $b;
+
+print $a + $b + $c;
 
 // Kivonás
 //------------------
 $x = 35;
 $y = 19;
 print "<br /><br />" . $x - $y;
-
-
-
-
-
-
-// Itt a vége!
 
 ?>
